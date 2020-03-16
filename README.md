@@ -1,4 +1,5 @@
- Sarcasm Detection
+Sarcasm Detection
+
 Dataset used was taken from https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
 
 Citation
