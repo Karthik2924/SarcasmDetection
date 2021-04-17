@@ -15,6 +15,7 @@
 * _sarcasm_predictor.py_ file contains code to use the trained model to make predictions.
 
 Citation:
+
 @dataset{dataset,
   author = {Misra, Rishabh},
   year = {2018},
