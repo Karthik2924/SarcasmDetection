@@ -1,4 +1,4 @@
-### Sarcasm Detection
+## Sarcasm Detection
 * Sarcasm Detection is an important part of sentimental analysis as it changes the whole meaning of the sentence.
 * This project works only on sentences which are sarcastic by theselves and require no prior context.
 * Dataset used was taken from https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
